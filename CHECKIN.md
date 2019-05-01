@@ -6,3 +6,9 @@
  102. Binary Tree Level Order Traversal (Medium)
  104. Maximum Depth of Binary Tree (Easy)
  
+ ## 5.1
+ 1. Two Sum(Easy)
+ 2. Add Two Numbers(Medium)
+ 200. Number of Islands(Medium)
+ 5. Longest Palindromic Substring(Medium)
+ 929. Unique Email Addresses(Easy)
