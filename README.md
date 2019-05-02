@@ -9,10 +9,12 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  145 Binary Tree Postorder Traversal (Hard)  
  102 Binary Tree Level Order Traversal (Medium)  
  104 Maximum Depth of Binary Tree (Easy)  
-## Recorded by Frequency
- 1 Two Sum(Easy)  
- 2 Add Two Numbers(Medium)  
- 200 Number of Islands(Medium)  
+ ### String
  5 Longest Palindromic Substring(Medium)  
  929 Unique Email Addresses(Easy)  
-
+ ### Array
+ 1 Two Sum(Easy)  
+ ### DFS
+ 200 Number of Islands(Medium)  
+ ### Linked List
+  2 Add Two Numbers(Medium)  

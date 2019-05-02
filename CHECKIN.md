@@ -12,3 +12,10 @@
  200 Number of Islands(Medium)  
  5 Longest Palindromic Substring(Medium)  
  929 Unique Email Addresses(Easy)  
+ 
+ ## 5.2
+ 101 Symmetric Tree(Easy)  
+ 112 Path Sum(Easy)  
+ 106 Construct Binary Tree from Inorder and Postorder Traversal(Medium)  
+ 105 Construct Binary Tree from Preorder and Inorder Traversal(Medium)  
+ 116 Populating Next Right Pointers in Each Node(Medium)  
