@@ -21,8 +21,8 @@
  116 Populating Next Right Pointers in Each Node(Medium)  
 
 ## 5.3
-3 Longest Substring Without Repeating Characters
-15 3sum
-973 K Cloest Points to Origin
-21 Merge Two Sorted Lists
-56 Merge Intervals
+3 Longest Substring Without Repeating Characters(Medium)
+15 3sum(Medium)
+973 K Cloest Points to Origin(Medium)
+21 Merge Two Sorted Lists(Easy)
+56 Merge Intervals(Medium)
