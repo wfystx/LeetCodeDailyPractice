@@ -3,12 +3,18 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
 
 # Problems solved
 ## Recorded by Categories 
-### Binary Tree
+### Tree
  144 Binary Tree Preorder Traversal (Medium)  
  94 Binary Tree Inorder Traversal (Medium)  
  145 Binary Tree Postorder Traversal (Hard)  
  102 Binary Tree Level Order Traversal (Medium)  
  104 Maximum Depth of Binary Tree (Easy)  
+ 101 Symmetric Tree(Easy)  
+ 112 Path Sum(Easy)  
+ 106 Construct Binary Tree from Inorder and Postorder Traversal(Medium)   
+ 105 Construct Binary Tree from Preorder and Inorder Traversal(Medium)  
+ 116 Populating Next Right Pointers in Each Node(Medium)  
+ 
  ### String
  5 Longest Palindromic Substring(Medium)  
  929 Unique Email Addresses(Easy)  
