@@ -18,9 +18,17 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  ### String
  5 Longest Palindromic Substring(Medium)  
  929 Unique Email Addresses(Easy)  
+ 3 Longest Substring Without Repeating Characters(Medium)  
+
  ### Array
  1 Two Sum(Easy)  
+ 15 3Sum(Medium)  
+ 973 K Closest Points to Origin(Medium)   
+ 56 Merge Intervals(Medium)  
+
  ### DFS
  200 Number of Islands(Medium)  
+ 
  ### Linked List
   2 Add Two Numbers(Medium)  
+  21 Merge Two Sorted Lists(Medium)  

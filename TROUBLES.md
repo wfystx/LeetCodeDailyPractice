@@ -7,3 +7,5 @@ Preorder Tree: root - left - right
 Inorder Tree: left - root - right  
 Postorder Tree: left - right - root  
 
+5.3:  
+Fast way to find k smallest element???  
