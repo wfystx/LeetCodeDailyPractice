@@ -23,7 +23,6 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  ### Array
  1 Two Sum(Easy)  
  15 3Sum(Medium)  
- 973 K Closest Points to Origin(Medium)   
  56 Merge Intervals(Medium)  
 
  ### DFS
@@ -32,3 +31,11 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  ### Linked List
   2 Add Two Numbers(Medium)  
   21 Merge Two Sorted Lists(Medium)  
+
+ ### Sort
+ 75 Sort Colors(Medium)  
+ 147 Insertion Sort List(Medium)  
+ 973 K Closest Points to Origin(Medium)   
+ 148 Sort List(Medium)   
+ 179 Largest Number(Medium)  
+
