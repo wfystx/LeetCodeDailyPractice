@@ -27,3 +27,9 @@
  21 Merge Two Sorted Lists(Easy)  
  56 Merge Intervals(Medium)  
 
+ ## 5.4
+ 75 Sort Colors(Medium)  
+ 147 Insertion Sort List(Medium)  
+ 148 Sort List(Medium)  
+ 179 Largest Number(Medium)  
+ 220 Contains Duplicate III(Medium)  
