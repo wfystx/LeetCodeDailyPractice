@@ -22,7 +22,8 @@
 
  ## 5.3
  3 Longest Substring Without Repeating Characters(Medium)  
- 15 3Sum(Medium)  
- 973 K Closest Points to Origin(Medium)  
+ 15 3sum(Medium)  
+ 973 K Cloest Points to Origin(Medium)  
  21 Merge Two Sorted Lists(Easy)  
  56 Merge Intervals(Medium)  
+
