@@ -15,28 +15,37 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  105 Construct Binary Tree from Preorder and Inorder Traversal(Medium)  
  116 Populating Next Right Pointers in Each Node(Medium)  
  
- ### String
+### String
  5 Longest Palindromic Substring(Medium)  
  929 Unique Email Addresses(Easy)  
  3 Longest Substring Without Repeating Characters(Medium)  
+ 273 Integer to English Words(Hard)  
+ 20 Valid Parentheses(Easy)  
 
- ### Array
+
+### Array
  1 Two Sum(Easy)  
  15 3Sum(Medium)  
  56 Merge Intervals(Medium)  
+ 53 Maximum Subarray(Easy)  
 
- ### DFS
+
+### DFS
  200 Number of Islands(Medium)  
  
- ### Linked List
+### Linked List
   2 Add Two Numbers(Medium)  
   21 Merge Two Sorted Lists(Medium)  
 
- ### Sort
+### Sort
  75 Sort Colors(Medium)  
  147 Insertion Sort List(Medium)  
  973 K Closest Points to Origin(Medium)   
  148 Sort List(Medium)   
  179 Largest Number(Medium)  
  220 Contains Duplicate III(Medium)  
+ 253 Meeting Rooms II(Medium)
 
+
+### Sliding Window
+ 904 Fruit Into Baskets(Medium)  
