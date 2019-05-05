@@ -40,3 +40,12 @@
  273 Integer to English Words(Hard)  
  20 Valid Parentheses(Easy)  
  253 Meeting Rooms II(Medium)
+
+ ## 5.6
+ 274 H-Index(Medium)  
+ 324 Wiggle Sort II(Medium)  
+ 349 Intersection of Two Arrays(Easy)  
+ 350 Intersection of Two Arrays II(Easy)  
+ 524 Longest Word in Dictionary through Deleting(Medium)  
+
+
