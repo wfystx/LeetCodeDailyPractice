@@ -4,3 +4,4 @@
  622 Design Circular Queue(Medium)  
  346 Moving Average from Data Stream(Easy)  
  286 Walls and Gates  
+ 752 Open the Lock
