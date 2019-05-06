@@ -9,3 +9,6 @@ Postorder Tree: left - right - root
 
 5.3:  
 Fast way to find k smallest element???  
+
+5.6:
+324 Wiggle Sort II(Medium)  
