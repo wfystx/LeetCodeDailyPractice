@@ -54,3 +54,10 @@
  175 Combine Two Tables(Easy)  
  121 Best Time to Buy and Shell Stock(Easy)  
  7 Reverse Integer(Easy)  
+
+ ## 5.8
+ 238 Product of Array Except Self(Medium)  
+ 11	Container With Most Water(Medium)  
+ 33	Search in Rotated Sorted Array(Medium)  
+ 811 Subdomain Visit Count(Easy)  
+ 289 Game of Life(Medium)  

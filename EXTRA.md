@@ -12,4 +12,7 @@
  155 Min Stack(Easy)  
  739 Daily Temperatures(Medium)  
  150 Evaluate Reverse Polish Notation(Medium)  
+ 232 Implement Queue using Stacks(Easy)  
+ 225 Implement Stack using Queues(Easy)  
+
 
