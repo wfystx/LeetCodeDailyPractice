@@ -48,4 +48,9 @@
  350 Intersection of Two Arrays II(Easy)  
  524 Longest Word in Dictionary through Deleting(Medium)  
 
-
+ ## 5.7  
+ 206 Reverse Linked List(Easy)  
+ 138 Copy List With Random Pointer(Easy)  
+ 175 Combine Two Tables(Medium)  
+ 121 Best Time to Buy and Shell Stock(Medium)  
+ 7 Reverse Integer(Medium)  
