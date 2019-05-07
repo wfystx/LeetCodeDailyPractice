@@ -9,4 +9,7 @@
  200 Number of Islands BFS(Medium)  
  133 Clone Graph(Medium)  
  494 Target Sum(Medium). 
- 155 Min Stack  
+ 155 Min Stack(Easy)  
+ 739 Daily Temperatures(Medium)  
+ 150 Evaluate Reverse Polish Notation(Medium)  
+
