@@ -22,20 +22,21 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  273 Integer to English Words(Hard)  
  20 Valid Parentheses(Easy)  
 
-
 ### Array
  1 Two Sum(Easy)  
  15 3Sum(Medium)  
  56 Merge Intervals(Medium)  
  53 Maximum Subarray(Easy)  
-
+ 121 Best Time to Buy and Shell Stock(Easy)  
 
 ### DFS
  200 Number of Islands(Medium)  
  
 ### Linked List
-  2 Add Two Numbers(Medium)  
-  21 Merge Two Sorted Lists(Medium)  
+ 2 Add Two Numbers(Medium)  
+ 21 Merge Two Sorted Lists(Medium)  
+ 206 Reverse Linked List(Easy)  
+ 138 Copy List With Random Pointer(Medium)  
 
 ### Sort
  75 Sort Colors(Medium)  
@@ -45,10 +46,15 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  179 Largest Number(Medium)  
  220 Contains Duplicate III(Medium)  
  253 Meeting Rooms II(Medium)  
- 274 H-Index(Medium)  
+ 274 H-Index(Medium) 
+ 324 Wiggle Sort II(Medium)   
  349 Intersection of Two Arrays(Easy)  
  350 Intersection of Two Arrays II(Easy)  
  524 Longest Word in Dictionary through Deleting(Medium)  
 
 ### Sliding Window
  904 Fruit Into Baskets(Medium)  
+
+### Math
+ 7 Reverse Integer  
+

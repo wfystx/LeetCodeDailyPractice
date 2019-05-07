@@ -50,7 +50,7 @@
 
  ## 5.7  
  206 Reverse Linked List(Easy)  
- 138 Copy List With Random Pointer(Easy)  
- 175 Combine Two Tables(Medium)  
- 121 Best Time to Buy and Shell Stock(Medium)  
- 7 Reverse Integer(Medium)  
+ 138 Copy List With Random Pointer(Medium)  
+ 175 Combine Two Tables(Easy)  
+ 121 Best Time to Buy and Shell Stock(Easy)  
+ 7 Reverse Integer(Easy)  
