@@ -21,6 +21,7 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  3 Longest Substring Without Repeating Characters(Medium)  
  273 Integer to English Words(Hard)  
  20 Valid Parentheses(Easy)  
+ 811 Subdomain Visit Count(Easy)  
 
 ### Array
  1 Two Sum(Easy)  
@@ -31,7 +32,7 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  238 Product of Array Except Self(Medium)  
  11	Container With Most Water(Medium)  
  33	Search in Rotated Sorted Array(Medium)  
-
+ 289 Game of Life(Medium)  
 
 ### DFS
  200 Number of Islands(Medium)  
