@@ -14,5 +14,6 @@
  150 Evaluate Reverse Polish Notation(Medium)  
  232 Implement Queue using Stacks(Easy)  
  225 Implement Stack using Queues(Easy)  
-
+ 394 Decode String(Medium)  
+ 733 Flood Fill(Easy)  
 
