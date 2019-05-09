@@ -16,4 +16,5 @@
  225 Implement Stack using Queues(Easy)  
  394 Decode String(Medium)  
  733 Flood Fill(Easy)  
-
+ 8 String to Integer (atoi)(Medium)  
+ 542 01 Matrix(Medium)  
