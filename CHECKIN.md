@@ -61,3 +61,10 @@
  33	Search in Rotated Sorted Array(Medium)  
  811 Subdomain Visit Count(Easy)  
  289 Game of Life(Medium)  
+ 
+ ## 5.9  
+ 152 Maximum Product Subarray(Medium)  
+ 198 House Robber(Easy)  
+ 279 Perfect Squares(Medium)  
+ 62 Unique Paths(Medium)  
+ 304 Range Sum Query 2D - Immutable(Medium)
