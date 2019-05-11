@@ -75,3 +75,24 @@
  31	Next Permutation(Medium)  
  771 Jewels and Stones(Easy)  
  49	Group Anagrams(Medium)  
+
+## 5.11  
+ 560 Subarray Sum Equals K(Medium)  
+ 79	Word Search(Medium)  
+ 215 Kth Largest Element in an Array(Medium)  
+ 46	Permutations(Medium)  
+ 13	Roman to Integer(Easy)  
+
+## 5.12  
+ 380 Insert Delete GetRandom O(1)(Medium)  
+ 9 Palindrome Number(Easy)  
+ 54	Spiral Matrix(Medium)  
+ 344 Reverse String(Easy)  
+ 88	Merge Sorted Array(Easy)  
+
+## 5.13  
+ 8 String to Integer (atoi)(Medium)  
+ 98 Validate Binary Search Tree(Medium)  
+ 347 Top K Frequent Elements(Medium)  
+ 103 Binary Tree Zigzag Level Order Traversal(Medium)  
+ 412 Fizz Buzz(Easy)  
