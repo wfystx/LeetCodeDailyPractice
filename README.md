@@ -32,7 +32,10 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  238 Product of Array Except Self(Medium)  
  11	Container With Most Water(Medium)  
  33	Search in Rotated Sorted Array(Medium)  
- 289 Game of Life(Medium)  
+ 289 Game of Life(Medium)
+ 9 Palindrome Number(Easy)  
+ 54 Spiral Matrix(Medium)
+ 344 Reverse String(Easy)  
 
 ### Heap
  215 Kth Largest Element in an Array(Medium)
@@ -61,6 +64,7 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  349 Intersection of Two Arrays(Easy)  
  350 Intersection of Two Arrays II(Easy)  
  524 Longest Word in Dictionary through Deleting(Medium)  
+ 88 Merge Sorted Array(Easy)  
 
 ### Sliding Window
  904 Fruit Into Baskets(Medium)  
@@ -79,3 +83,5 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  560 Subarray Sum Equals K(Medium)  
  13 Roman to Integer(Easy)  
 
+ ### DataStructureImp
+ 380 Insert Delete GetRandom O(1)(Medium)  
