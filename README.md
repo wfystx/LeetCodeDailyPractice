@@ -34,8 +34,13 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  33	Search in Rotated Sorted Array(Medium)  
  289 Game of Life(Medium)  
 
+### Heap
+ 215 Kth Largest Element in an Array(Medium)
+
 ### DFS
  200 Number of Islands(Medium)  
+ 79 Word Search(Medium)  
+ 46 Permutations  
  
 ### Linked List
  2 Add Two Numbers(Medium)  
@@ -46,7 +51,7 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
 ### Sort
  75 Sort Colors(Medium)  
  147 Insertion Sort List(Medium)  
- 973 K Closest Points to Origin(Medium)   
+ 973 K Closest Points to Origin(Medium)  
  148 Sort List(Medium)   
  179 Largest Number(Medium)  
  220 Contains Duplicate III(Medium)  
@@ -68,5 +73,9 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  198 House Robber(Easy)  
  279 Perfect Squares(Medium)  
  62 Unique Paths(Medium)  
- 304 Range Sum Query 2D - Immutable(Medium)  
+ 304 Range Sum Query 2D - Immutable(Medium) 
+ 
+ ### Hashmap
+ 560 Subarray Sum Equals K(Medium)  
+ 13 Roman to Integer(Easy)  
 
