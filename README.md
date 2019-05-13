@@ -14,6 +14,8 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  106 Construct Binary Tree from Inorder and Postorder Traversal(Medium)   
  105 Construct Binary Tree from Preorder and Inorder Traversal(Medium)  
  116 Populating Next Right Pointers in Each Node(Medium)  
+ 98 Validate Binary Search Tree(Medium)  
+ 103 Binary Tree Zigzag Level Order Traversal(Medium)  
  
 ### String
  5 Longest Palindromic Substring(Medium)  
@@ -22,6 +24,7 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  273 Integer to English Words(Hard)  
  20 Valid Parentheses(Easy)  
  811 Subdomain Visit Count(Easy)  
+ 8 String to Integer (atoi)(Medium)  
 
 ### Array
  1 Two Sum(Easy)  
@@ -36,6 +39,7 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  9 Palindrome Number(Easy)  
  54 Spiral Matrix(Medium)
  344 Reverse String(Easy)  
+ 412 Fizz Buzz(Easy)  
 
 ### Heap
  215 Kth Largest Element in an Array(Medium)
@@ -65,6 +69,7 @@ LeetCode daily practice of Yichen Ma and Fuyao Wang
  350 Intersection of Two Arrays II(Easy)  
  524 Longest Word in Dictionary through Deleting(Medium)  
  88 Merge Sorted Array(Easy)  
+ 347 Top K Frequent Elements(Medium)  
 
 ### Sliding Window
  904 Fruit Into Baskets(Medium)  
