@@ -10,7 +10,7 @@ Postorder Tree: left - right - root
 5.3:  
 Fast way to find k smallest element???  
 
-5.6:
+5.6:(Solved)
 324 Wiggle Sort II(Medium)  
 
 5.8:
@@ -18,6 +18,9 @@ Fast way to find k smallest element???
 
 5.9:
 279 how to do it in dp.
+
+5.11:
+560 Subarray Sum Equals K(Medium)  
 
 ## Yichen
 279:
