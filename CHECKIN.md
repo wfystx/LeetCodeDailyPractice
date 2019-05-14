@@ -100,6 +100,6 @@
 ## 5.14
  621 Task Scheduler(Medium)  
  127 Word Ladder(Medium)  
- 103 Min Stack(Easy)  
+ 155 Min Stack(Easy)  
  193 Valid Phone Numbers(Easy)     
  192 Word Frequency(Medium)  
