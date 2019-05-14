@@ -103,3 +103,10 @@
  155 Min Stack(Easy)  
  193 Valid Phone Numbers(Easy)     
  192 Word Frequency(Medium)  
+
+## 5.15
+ 151 Reverse Words in a String(Medium)  
+ 332 Reconstruct Itinerary(Medium)  
+ 947 Most Stones Removed with Same Row or Column(Medium)  
+ 91 Decode Ways(Meidum)  
+ 399 Evaluate Division(Medium)  
