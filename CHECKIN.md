@@ -117,3 +117,18 @@
  139 Word Break(Medium)  
  39 Combination Sum(Meidum)  
  176 Second Highest Salary(Medium)  
+
+## 5.17  
+ 48 Rotate Image(Meidum)  
+ 227 Basic Calculator II(Medium)  
+ 981 Time Based Key-Value Store(Medium)  
+ 236 Lowest Common Ancestor of a Binary Tree(Medium)  
+ 6 ZigZag Conversion(Medium)  
+
+## 5.18  
+ 706 Design HashMap(Easy)  
+ 283 Move Zeroes(Easy)  
+ 692 Top K Frequent Words(Medium)  
+ 974 Subarray Sums Divisible by K(Medium)  
+ 443 String Compression(Easy)  
+ 
