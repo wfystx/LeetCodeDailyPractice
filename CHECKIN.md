@@ -110,3 +110,10 @@
  947 Most Stones Removed with Same Row or Column(Medium)  
  91 Decode Ways(Meidum)  
  399 Evaluate Division(Medium)  
+
+## 5.16  
+ 67	Add Binary(Easy)       
+ 393 UTF-8 Validation(Medium)  
+ 139 Word Break(Medium)  
+ 39 Combination Sum(Meidum)  
+ 176 Second Highest Salary(Medium)  

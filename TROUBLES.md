@@ -22,6 +22,13 @@ Fast way to find k smallest element???
 5.11:
 560 Subarray Sum Equals K(Medium)  
 
+5.17:
+399 Evaluate Division(Medium)  
+947 Most Stones Removed with Same Row or Column(Medium)  
+621 Task Scheduler(Medium)  
+54	Spiral Matrix(Medium)  
+
+
 ## Yichen
 279:
 why it can save 2---ms because of self._dp?
