@@ -26,7 +26,8 @@ Fast way to find k smallest element???
 399 Evaluate Division(Medium)  
 947 Most Stones Removed with Same Row or Column(Medium)  
 621 Task Scheduler(Medium)  
-54	Spiral Matrix(Medium)  
+54	Spiral Matrix(Medium) 
+393 UTF-8 Validation(Medium)  
 
 
 ## Yichen

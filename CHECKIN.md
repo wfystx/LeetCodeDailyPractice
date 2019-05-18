@@ -116,7 +116,7 @@
  393 UTF-8 Validation(Medium)  
  139 Word Break(Medium)  
  39 Combination Sum(Meidum)  
- 176 Second Highest Salary(Medium)  
+ 176 Second Highest Salary(Easy)  
 
 ## 5.17  
  48 Rotate Image(Meidum)  
@@ -131,4 +131,3 @@
  692 Top K Frequent Words(Medium)  
  974 Subarray Sums Divisible by K(Medium)  
  443 String Compression(Easy)  
- 
