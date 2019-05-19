@@ -10,7 +10,7 @@ Postorder Tree: left - right - root
 5.3:  
 Fast way to find k smallest element???  
 
-5.6:(Solved)
+5.6: (Solved)
 324 Wiggle Sort II(Medium)  
 
 5.8:
@@ -22,8 +22,8 @@ Fast way to find k smallest element???
 5.11:
 560 Subarray Sum Equals K(Medium)  
 
-5.17:
-399 Evaluate Division(Medium)  
+5.17:  
+399 Evaluate Division(Medium)  (Solved)(Union find - Need more practice)
 947 Most Stones Removed with Same Row or Column(Medium)  
 621 Task Scheduler(Medium)  
 54	Spiral Matrix(Medium) 
@@ -31,6 +31,9 @@ Fast way to find k smallest element???
 981 Time Based Key-Value Store(Medium)  
 974 Subarray Sums Divisible by K(Medium)  
 923 3Sum With Multiplicity(Medium)  
+
+5.19:  
+130???????
 
 ## Yichen
 279:
