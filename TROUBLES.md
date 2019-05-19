@@ -28,7 +28,8 @@ Fast way to find k smallest element???
 621 Task Scheduler(Medium)  
 54	Spiral Matrix(Medium) 
 393 UTF-8 Validation(Medium)  
-
+981 Time Based Key-Value Store(Medium)  
+974 Subarray Sums Divisible by K(Medium)  
 
 ## Yichen
 279:

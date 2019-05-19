@@ -131,3 +131,17 @@
  692 Top K Frequent Words(Medium)  
  974 Subarray Sums Divisible by K(Medium)  
  443 String Compression(Easy)  
+
+## 5.19  
+ 202 Happy Number(Easy)  
+ 923 3Sum With Multiplicity(Medium)  
+ 12 Integer to Roman(Medium)  
+ 207 Course Schedule(Medium)  
+ 482 License Key Formatting(Easy)  
+
+## 5.20  
+ 937 Reorder Log Files(Easy)  
+ 34 Find First and Last Position of Element in Sorted Array(Medium)   
+ 543 Diameter of Binary Tree(Easy)  
+ 125 Valid Palindrome(Easy)  
+ 695 Max Area of Island(Medium)  
