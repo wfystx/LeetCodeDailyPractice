@@ -35,6 +35,10 @@ Fast way to find k smallest element???
 5.19:  
 130???????
 
+5.20:  
+when using backtracking, if there is something need to be substituted: 1.push 2:recursive 3:pop. if there is no, just recursive. Example: 17 vs 22.  
+
+
 ## Yichen
 279:
 why it can save 2---ms because of self._dp?
