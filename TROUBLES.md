@@ -41,6 +41,7 @@ when using backtracking, if there is something need to be substituted: 1.push 2:
 Random number: a + rand() % n. a is the beginning, n is the range.  
 
 upper_bound, lower_bound: http://www.cnblogs.com/cobbliu/archive/2012/05/21/2512249.html  
+https://blog.csdn.net/qq_40160605/article/details/80150252  
 378??  
 
 ## Yichen
