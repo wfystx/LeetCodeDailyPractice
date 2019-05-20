@@ -38,6 +38,10 @@ Fast way to find k smallest element???
 5.20:  
 when using backtracking, if there is something need to be substituted: 1.push 2:recursive 3:pop. if there is no, just recursive. Example: 17 vs 22.  
 
+Random number: a + rand() % n. a is the beginning, n is the range.  
+
+upper_bound, lower_bound: http://www.cnblogs.com/cobbliu/archive/2012/05/21/2512249.html  
+378??  
 
 ## Yichen
 279:
