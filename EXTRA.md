@@ -42,3 +42,6 @@
  355 Design Twitter(Medium)  
  354 Russian Doll Envelopes(Hard)  
  359 Logger Rate Limiter(Easy)  
+ 41 First Missing Positive(Hard)  
+ 43 Multiply Strings(Medium)  
+ 165 Compare Version Numbers(Medium)  
