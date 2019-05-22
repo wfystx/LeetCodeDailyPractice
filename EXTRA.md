@@ -50,3 +50,5 @@
  50 Pow(x, n)(Meidum)  
  51 N-Queens(Hard)  
  52 N-Queens II(Hard)  
+ 162 Find Peak Element(Medium)  
+ 153 Find Minimum in Rotated Sorted Array(Medium)  
