@@ -45,3 +45,8 @@
  41 First Missing Positive(Hard)  
  43 Multiply Strings(Medium)  
  165 Compare Version Numbers(Medium)  
+ 45 Jump Game II(Hard)  
+ 47 Permutations II(Medium)  
+ 50 Pow(x, n)(Meidum)  
+ 51 N-Queens(Hard)  
+ 52 N-Queens II(Hard)  
