@@ -1,7 +1,3 @@
-/**
- Solution:
- DFS
-*/
 /*
 // Definition for a Node.
 class Node {
@@ -19,17 +15,14 @@ public:
 */
 class Solution {
 private:
-    unordered_map<Node*, Node*> map;
+    unordered_map<Node*,Node*> m;
 public:
     Node* cloneGraph(Node* node) {
         if(!node) return node;
-        if(map.find(node) == map.end()){
-            vector<Node*> vec;
-            map[node] = new Node(node->val, vec);
-            for(auto v:node->neighbors){
-                map[node]->neighbors.push_back(cloneGraph(v));
-            }
+        if(m.find(node) == m.end()){
+            m[node] = new Node(node->val, {});
+            for(auto n:node->neighbors) m[node]->neighbors.push_back(cloneGraph(n));
         }
-        return map[node];
+        return m[node];
     }
 };
