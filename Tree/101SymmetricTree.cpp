@@ -1,8 +1,4 @@
 /**
- Solution:
- Use recursion in a helper function. Access every left and right node.
-*/
-/**
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
@@ -14,14 +10,12 @@
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-        return check(root, root);        
+        return helper(root, root);
     }
-    bool check(TreeNode* l, TreeNode* r){
-        if(!l && !r) return true;
-        if(!l) return false;
-        if(!r) return false;
-        if(l->val != r->val) return false;
-        else return check(l->left, r->right) && check(l->right, r->left);
-        return true;
+    bool helper(TreeNode* t1, TreeNode* t2){
+        if(!t1 && !t2) return true;
+        if(!t1 || !t2) return false;
+        if(t1->val != t2->val) return false;
+        return helper(t1->left, t2->right) && helper(t1->right, t2->left);
     }
 };
