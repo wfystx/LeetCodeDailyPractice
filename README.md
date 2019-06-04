@@ -3,13 +3,17 @@ Here are top 250 problems:
 
 ID  Title 
 
-1   Two Sum @
+1   Two Sum @@
+
+2 Add Two Numbers @
 
 3   Longest Substring Without Repeating Characters @ 
 
 !4   Median of Two Sorted Arrays  
 
-5   Longest Palindromic Substring @   
+5   Longest Palindromic Substring @@
+
+6 ZigZag Conversion @
 
 7   Reverse Integer @  
 
@@ -31,9 +35,11 @@ ID  Title
 
 20  Valid Parentheses @  
 
+21 Merge Two Sorted Lists @
+
 22  Generate Parentheses @  
 
-!23  Merge k Sorted Lists   
+23  Merge k Sorted Lists @
 
 26  Remove Duplicates from Sorted Array @  
 
@@ -65,7 +71,7 @@ ID  Title
 
 41  First Missing Positive @   
 
-!42  Trapping Rain Water  
+42  Trapping Rain Water @
 
 43  Multiply Strings @  
 
@@ -155,6 +161,8 @@ ID  Title
 
 101 Symmetric Tree @  
 
+103 Binary Tree Zigzag Level Order Traversal @
+
 104 Maximum Depth of Binary Tree @  
 
 108 Convert Sorted Array to Binary Search Tree @  
@@ -173,7 +181,7 @@ ID  Title
 
 117 Populating Next Right Pointers in Each Node II @  
 
-121 Best Time to Buy and Sell Stock @  
+121 Best Time to Buy and Sell Stock @@
 
 122 Best Time to Buy and Sell Stock II @  
 
@@ -183,9 +191,9 @@ ID  Title
 
 125 Valid Palindrome @  
 
-126 Word Ladder II @  
+126 Word Ladder II @@
 
-127 Word Ladder @  
+127 Word Ladder @@
 
 128 Longest Consecutive Sequence @  
 
@@ -195,15 +203,15 @@ ID  Title
 
 134 Gas Station @  
 
-138 Copy List with Random Pointer @  
+138 Copy List with Random Pointer @@  
 
-139 Word Break @ 
+139 Word Break @@
 
 !140 Word Break II
 
 142 Linked List Cycle II @  
 
-!146 LRU Cache 
+146 LRU Cache @
 
 !149 Max Points on a Line 
 
@@ -227,6 +235,8 @@ ID  Title
 
 163 Missing Ranges @
 
+165 Compare Version Numbers @
+
 168 Excel Sheet Column Title @ 
 
 171 Excel Sheet Column Number @ 
@@ -245,7 +255,7 @@ ID  Title
 
 198 House Robber @  
 
-200 Number of Islands @ 
+200 Number of Islands @@ 
 
 201 Bitwise AND of Numbers Range @
 
@@ -255,7 +265,7 @@ ID  Title
 
 205 Isomorphic Strings @
 
-207 Course Schedule @ 
+207 Course Schedule @@
 
 208 Implement Trie (Prefix Tree) @ 
 
@@ -325,7 +335,7 @@ ID  Title
 
 252 Meeting Rooms @
 
-253 Meeting Rooms II @
+253 Meeting Rooms II @@
 
 254 Factor Combinations @
 
@@ -349,7 +359,7 @@ ID  Title
 
 271 Encode and Decode Strings @
 
-273 Integer to English Words @
+273 Integer to English Words @@
 
 274 H-Index @ 
 
@@ -389,17 +399,17 @@ ID  Title
 
 !294 Flip Game II
 
-295 Find Median from Data Stream @
+295 Find Median from Data Stream @@
 
 !296 Best Meeting Point
 
-!297 Serialize and Deserialize Binary Tree
+297 Serialize and Deserialize Binary Tree @
 
 298 Binary Tree Longest Consecutive Sequence @
 
 299 Bulls and Cows @
 
-!300 Longest Increasing Subsequence
+300 Longest Increasing Subsequence @
 
 301 Remove Invalid Parentheses @ 
 
@@ -453,7 +463,7 @@ ID  Title
 
 347 Top K Frequent Elements @  
 
-348 Design Tic-Tac-Toe @  
+348 Design Tic-Tac-Toe @@  
 
 350 Intersection of Two Arrays II @  
 
@@ -502,3 +512,23 @@ ID  Title
 394 Decode String @  
 
 398 Random Pick Index @  
+
+642 Design Search Autocomplete System @
+
+675 Cut Off Trees for Golf Event @
+
+733 Flood Fill @
+
+763 Partition Labels @
+
+819 Most Common Word @
+
+895 Maximum Frequency Stack @
+
+909 Snakes and Ladders @
+
+937 Reorder Log Files @
+
+957 Prison Cells After N Days @
+
+973 K Closest Points to Origin @
