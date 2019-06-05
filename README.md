@@ -5,17 +5,17 @@ ID  Title
 
 1   Two Sum @@
 
-2 Add Two Numbers @
+2 Add Two Numbers @@
 
-3   Longest Substring Without Repeating Characters @ 
+3   Longest Substring Without Repeating Characters @@
 
-!4   Median of Two Sorted Arrays  
+4   Median of Two Sorted Arrays @
 
 5   Longest Palindromic Substring @@
 
-6 ZigZag Conversion @
+6  ZigZag Conversion @
 
-7   Reverse Integer @  
+7   Reverse Integer @@
 
 8   String to Integer (atoi)  @  
 
@@ -27,19 +27,19 @@ ID  Title
 
 13  Roman to Integer @  
 
-15  3Sum @  
+15  3Sum @@
 
 17  Letter Combinations of a Phone Number @  
 
 18  4Sum @  
 
-20  Valid Parentheses @  
+20  Valid Parentheses @@
 
 21 Merge Two Sorted Lists @
 
 22  Generate Parentheses @  
 
-23  Merge k Sorted Lists @
+23  Merge k Sorted Lists @@
 
 26  Remove Duplicates from Sorted Array @  
 
@@ -53,7 +53,7 @@ ID  Title
 
 32  Longest Valid Parentheses @  
 
-33  Search in Rotated Sorted Array @  
+33  Search in Rotated Sorted Array @@
 
 34  Search for a Range @  
 
@@ -71,7 +71,7 @@ ID  Title
 
 41  First Missing Positive @   
 
-42  Trapping Rain Water @
+42  Trapping Rain Water @@
 
 43  Multiply Strings @  
 
@@ -93,13 +93,13 @@ ID  Title
 
 52  N-Queens II @  
 
-53  Maximum Subarray @  
+53  Maximum Subarray @@
 
 54  Spiral Matrix @  
 
 55  Jump Game @  
 
-56  Merge Intervals @  
+56  Merge Intervals @@
 
 57  Insert Interval @  
 
@@ -131,7 +131,7 @@ ID  Title
 
 75  Sort Colors @  
 
-76  Minimum Window Substring @  
+76  Minimum Window Substring @@
 
 77  Combinations @  
 
@@ -265,6 +265,8 @@ ID  Title
 
 205 Isomorphic Strings @
 
+206 Reverse Linked List @
+
 207 Course Schedule @@
 
 208 Implement Trie (Prefix Tree) @ 
@@ -315,7 +317,7 @@ ID  Title
 
 236 Lowest Common Ancestor of a Binary Tree @
 
-238 Product of Array Except Self @ 
+238 Product of Array Except Self @@
 
 !239 Sliding Window Maximum
 
@@ -353,7 +355,7 @@ ID  Title
 
 268 Missing Number @
 
-269 Alien Dictionary @
+269 Alien Dictionary @@
 
 270 Closest Binary Search Tree Value @
 
@@ -411,7 +413,7 @@ ID  Title
 
 300 Longest Increasing Subsequence @
 
-301 Remove Invalid Parentheses @ 
+301 Remove Invalid Parentheses @@
 
 !302 Smallest Rectangle Enclosing Black Pixels
 
@@ -521,11 +523,15 @@ ID  Title
 
 763 Partition Labels @
 
+771 Jewels and Stones @
+
 819 Most Common Word @
 
 895 Maximum Frequency Stack @
 
 909 Snakes and Ladders @
+
+929 Unique Email Addresses @
 
 937 Reorder Log Files @
 
