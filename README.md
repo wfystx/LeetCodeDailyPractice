@@ -13,23 +13,25 @@ ID  Title
 
 5   Longest Palindromic Substring @@
 
-6  ZigZag Conversion @
+6  ZigZag Conversion @@
 
 7   Reverse Integer @@
 
-8   String to Integer (atoi)  @  
+8   String to Integer (atoi)  @@
+
+9 Palindrome Number @
 
 10  Regular Expression Matching @  
 
-11  Container With Most Water @  
+11  Container With Most Water @@
 
-12  Integer to Roman @  
+12  Integer to Roman @@
 
-13  Roman to Integer @  
+13  Roman to Integer @@
 
 15  3Sum @@
 
-17  Letter Combinations of a Phone Number @  
+17  Letter Combinations of a Phone Number @@
 
 18  4Sum @  
 
@@ -37,7 +39,7 @@ ID  Title
 
 21 Merge Two Sorted Lists @
 
-22  Generate Parentheses @  
+22  Generate Parentheses @@
 
 23  Merge k Sorted Lists @@
 
@@ -49,9 +51,9 @@ ID  Title
 
 29  Divide Two Integers @   
 
-31  Next Permutation @   
+31  Next Permutation @@
 
-32  Longest Valid Parentheses @  
+32  Longest Valid Parentheses @@
 
 33  Search in Rotated Sorted Array @@
 
@@ -65,11 +67,11 @@ ID  Title
 
 38  Count and Say @  
 
-39  Combination Sum @  
+39  Combination Sum @@
 
 40  Combination Sum II @  
 
-41  First Missing Positive @   
+41  First Missing Positive @@
 
 42  Trapping Rain Water @@
 
@@ -79,23 +81,23 @@ ID  Title
 
 45  Jump Game II @  
 
-46  Permutations @  
+46  Permutations @@
 
 47  Permutations II @  
 
-48  Rotate Image @  
+48  Rotate Image @@
 
-49  Group Anagrams @  
+49  Group Anagrams @@
 
 50  Pow(x, n) @  
 
-51  N-Queens @  
+51  N-Queens @@
 
 52  N-Queens II @  
 
 53  Maximum Subarray @@
 
-54  Spiral Matrix @  
+54  Spiral Matrix @@
 
 55  Jump Game @  
 
@@ -115,7 +117,7 @@ ID  Title
 
 66  Plus One @  
 
-67  Add Binary @  
+67  Add Binary @@
 
 !68  Text Justification  
 
@@ -125,7 +127,7 @@ ID  Title
 
 71  Simplify Path @  
 
-72  Edit Distance @  
+72  Edit Distance @@
 
 74  Search a 2D Matrix @  
 
@@ -137,7 +139,7 @@ ID  Title
 
 78  Subsets @  
 
-79  Word Search @  
+79  Word Search @@
 
 80  Remove Duplicates from Sorted Array II @  
 
@@ -149,19 +151,19 @@ ID  Title
 
 !85  Maximal Rectangle  
 
-88  Merge Sorted Array @  
+88  Merge Sorted Array @@
 
 90  Subsets II @  
 
-91  Decode Ways @  
+91  Decode Ways @@
 
 96  Unique Binary Search Trees @  
 
-98  Validate Binary Search Tree @  
+98  Validate Binary Search Tree @@
 
 101 Symmetric Tree @  
 
-103 Binary Tree Zigzag Level Order Traversal @
+103 Binary Tree Zigzag Level Order Traversal @@
 
 104 Maximum Depth of Binary Tree @  
 
@@ -187,13 +189,13 @@ ID  Title
 
 !123 Best Time to Buy and Sell Stock III  
 
-124 Binary Tree Maximum Path Sum @  
+124 Binary Tree Maximum Path Sum @@
 
 125 Valid Palindrome @  
 
 126 Word Ladder II @@
 
-127 Word Ladder @@
+127 Word Ladder @@@
 
 128 Longest Consecutive Sequence @  
 
@@ -205,7 +207,7 @@ ID  Title
 
 138 Copy List with Random Pointer @@  
 
-139 Word Break @@
+139 Word Break @@@
 
 !140 Word Break II
 
@@ -217,13 +219,15 @@ ID  Title
 
 150 Evaluate Reverse Polish Notation @
 
+151 Reverse Words in a String @
+
 152 Maximum Product Subarray @
 
 153 Find Minimum in Rotated Sorted Array @
 
 154 Find Minimum in Rotated Sorted Array II @
 
-155 Min Stack @
+155 Min Stack @@
 
 157 Read N Characters Given Read4 @
 
@@ -283,7 +287,7 @@ ID  Title
 
 !214 Shortest Palindrome 
 
-215 Kth Largest Element in an Array @ 
+215 Kth Largest Element in an Array @@
 
 216 Combination Sum III @
 
@@ -297,13 +301,13 @@ ID  Title
 
 221 Maximal Square @
 
-224 Basic Calculator @ 
+224 Basic Calculator @@
 
 225 Implement Stack using Queues @ 
 
 226 Invert Binary Tree @ 
 
-227 Basic Calculator II @ 
+227 Basic Calculator II @@
 
 228 Summary Ranges @ 
 
@@ -315,7 +319,7 @@ ID  Title
 
 235 Lowest Common Ancestor of a Binary Search Tree @
 
-236 Lowest Common Ancestor of a Binary Tree @
+236 Lowest Common Ancestor of a Binary Tree @@
 
 238 Product of Array Except Self @@
 
@@ -379,7 +383,7 @@ ID  Title
 
 !282 Expression Add Operators
 
-283 Move Zeroes @
+283 Move Zeroes @@
 
 284 Peeking Iterator @
 
@@ -391,7 +395,7 @@ ID  Title
 
 288 Unique Word Abbreviation @
 
-289 Game of Life @
+289 Game of Life @@
 
 290 Word Pattern @
 
@@ -437,7 +441,7 @@ ID  Title
 
 318 Maximum Product of Word Lengths @
 
-322 Coin Change @
+322 Coin Change @@
 
 !323 Number of Connected Components in an Undirected Graph
 
@@ -446,6 +450,8 @@ ID  Title
 !325 Maximum Size Subarray Sum Equals k
 
 !329 Longest Increasing Path in a Matrix
+
+332 Reconstruct Itinerary @
 
 334 Increasing Triplet Subsequence @
 
@@ -459,13 +465,15 @@ ID  Title
 
 !340 Longest Substring with At Most K Distinct Characters  
 
-341 Flatten Nested List Iterator @  
+341 Flatten Nested List Iterator @@
+
+344 Reverse String @
 
 !346 Moving Average from Data Stream 
 
-347 Top K Frequent Elements @  
+347 Top K Frequent Elements @@
 
-348 Design Tic-Tac-Toe @@  
+348 Design Tic-Tac-Toe @@
 
 350 Intersection of Two Arrays II @  
 
@@ -501,7 +509,7 @@ ID  Title
 
 !379 Design Phone Directory
 
-380 Insert Delete GetRandom O(1) @  
+380 Insert Delete GetRandom O(1) @@
 
 381 Insert Delete GetRandom O(1) - Duplicates allowed @  
 
@@ -511,13 +519,27 @@ ID  Title
 
 389 Find the Difference @  
 
-394 Decode String @  
+394 Decode String @@
 
 398 Random Pick Index @  
 
-642 Design Search Autocomplete System @
+412 Fizz Buzz @
+
+454 4Sum II @
+
+459 Repeated Substring Pattern @
+
+560 Subarray Sum Equals K @
+
+609 Find Duplicate File in System @
+
+621 Task Scheduler @
+
+642 Design Search Autocomplete System @@
 
 675 Cut Off Trees for Golf Event @
+
+716 Max Stack @
 
 733 Flood Fill @
 
@@ -525,16 +547,28 @@ ID  Title
 
 771 Jewels and Stones @
 
-819 Most Common Word @
+811 Subdomain Visit Count @
+
+819 Most Common Word @@
+
+829 Consecutive Numbers Sum @
 
 895 Maximum Frequency Stack @
+
+904 Fruit Into Baskets @
 
 909 Snakes and Ladders @
 
 929 Unique Email Addresses @
 
-937 Reorder Log Files @
+937 Reorder Log Files @@
 
 957 Prison Cells After N Days @
 
 973 K Closest Points to Origin @
+
+974 Subarray Sums Divisible by K @
+
+981 Time Based Key-Value Store @
+
+986 Interval List Intersections @
