@@ -29,6 +29,8 @@ ID  Title
 
 13  Roman to Integer @@
 
+14 Longest Common Prefix @
+
 15  3Sum @@
 
 17  Letter Combinations of a Phone Number @@
@@ -57,7 +59,7 @@ ID  Title
 
 33  Search in Rotated Sorted Array @@
 
-34  Search for a Range @  
+34 Find First and Last Position of Element in Sorted Array  @
 
 35  Search Insert Position @  
 
@@ -79,7 +81,7 @@ ID  Title
 
 44  Wildcard Matching @  
 
-45  Jump Game II @  
+45  Jump Game II @@
 
 46  Permutations @@
 
@@ -89,7 +91,7 @@ ID  Title
 
 49  Group Anagrams @@
 
-50  Pow(x, n) @  
+50  Pow(x, n) @@
 
 51  N-Queens @@
 
@@ -103,7 +105,7 @@ ID  Title
 
 56  Merge Intervals @@
 
-57  Insert Interval @  
+57  Insert Interval @@
 
 59  Spiral Matrix II @  
 
@@ -137,7 +139,7 @@ ID  Title
 
 77  Combinations @  
 
-78  Subsets @  
+78  Subsets @@
 
 79  Word Search @@
 
@@ -156,6 +158,8 @@ ID  Title
 90  Subsets II @  
 
 91  Decode Ways @@
+
+92 Reverse Linked List II @
 
 96  Unique Binary Search Trees @  
 
@@ -191,9 +195,9 @@ ID  Title
 
 124 Binary Tree Maximum Path Sum @@
 
-125 Valid Palindrome @  
+125 Valid Palindrome @@
 
-126 Word Ladder II @@
+126 Word Ladder II @@@
 
 127 Word Ladder @@@
 
@@ -201,7 +205,7 @@ ID  Title
 
 130 Surrounded Regions @  
 
-133 Clone Graph @  
+133 Clone Graph @@
 
 134 Gas Station @  
 
@@ -241,6 +245,8 @@ ID  Title
 
 165 Compare Version Numbers @
 
+167 Two Sum II - Input array is sorted @
+
 168 Excel Sheet Column Title @ 
 
 171 Excel Sheet Column Number @ 
@@ -271,7 +277,7 @@ ID  Title
 
 206 Reverse Linked List @
 
-207 Course Schedule @@
+207 Course Schedule @@@
 
 208 Implement Trie (Prefix Tree) @ 
 
@@ -279,9 +285,9 @@ ID  Title
 
 210 Course Schedule II @ 
 
-211 Add and Search Word - Data structure design @
+211 Add and Search Word - Data structure design @@
 
-212 Word Search II @ 
+212 Word Search II @@
 
 213 House Robber II @ 
 
@@ -433,7 +439,7 @@ ID  Title
 
 !312 Burst Balloons
 
-!314 Binary Tree Vertical Order Traversal
+314 Binary Tree Vertical Order Traversal @
 
 !316 Remove Duplicate Letters
 
@@ -491,9 +497,9 @@ ID  Title
 
 361 Bomb Enemy @  
 
-!362 Design Hit Counter  
+362 Design Hit Counter @
 
-!364 Nested List Weight Sum II   
+364 Nested List Weight Sum II @
 
 367 Valid Perfect Square @   
 
@@ -525,9 +531,21 @@ ID  Title
 
 412 Fizz Buzz @
 
+426 Convert Binary Search Tree to Sorted Doubly Linked List @
+
+443 String Compression @
+
+445 Add Two Numbers II @
+
+449 Serialize and Deserialize BST @
+
 454 4Sum II @
 
 459 Repeated Substring Pattern @
+
+535 Encode and Decode TinyURL @
+
+543 Diameter of Binary Tree @
 
 560 Subarray Sum Equals K @
 
@@ -538,6 +556,10 @@ ID  Title
 642 Design Search Autocomplete System @@
 
 675 Cut Off Trees for Golf Event @
+
+692 Top K Frequent Words @
+
+706 Design HashMap @
 
 716 Max Stack @
 
