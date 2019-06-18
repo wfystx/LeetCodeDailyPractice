@@ -9,21 +9,24 @@
  */
 class Solution {
 public:
-    vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> res;
+    vector<int> rightSideView(TreeNode* root) {
+        vector<int> res;
         if(!root) return res;
         queue<TreeNode*> q;
         q.push(root);
+        bool flag = false;
         while(!q.empty()){
             int sz = q.size();
-            vector<int> tmp;
+            flag = false;
             for(int i = 0; i < sz; i++){
-                TreeNode* t = q.front(); q.pop();
-                tmp.push_back(t->val);
-                if(t->left) q.push(t->left);
-                if(t->right) q.push(t->right);
+                TreeNode* tmp = q.front(); q.pop();
+                if(flag == false){
+                    res.push_back(tmp->val);
+                    flag = true;
+                } 
+                if(tmp->right) q.push(tmp->right);
+                if(tmp->left) q.push(tmp->left);
             }
-            res.push_back(tmp);
         }
         return res;
     }
