@@ -1,7 +1,9 @@
+struct KVNode {
+    int key, val;
+    KVNode* next;
+    KVNode(int k, int v): key(k), val(v), next(NULL) {}
+};
 class MyHashMap {
-private:
-    vector<int> keyVector;
-    vector<int> valueVector;
 public:
     /** Initialize your data structure here. */
     MyHashMap() {
@@ -10,50 +12,42 @@ public:
     
     /** value will always be non-negative. */
     void put(int key, int value) {
-        int search = -1;
-        for(int i=0; i<keyVector.size(); i++){
-            if(keyVector[i]==key){
-                search = i;
-                break;
-            }
-        }
-        if(search == -1){
-            keyVector.push_back(key);
-            valueVector.push_back(value);
-        }else{
-            valueVector[search] = value;
-            cout << valueVector[search] << endl;
-        }
+        KVNode* pre = find(key);
+        if(pre->next) pre->next->val = value;
+        else pre->next = new KVNode(key, value);
     }
     
     /** Returns the value to which the specified key is mapped, or -1 if this map contains no mapping for the key */
     int get(int key) {
-        for(int i=0; i<keyVector.size(); i++){
-            if(keyVector[i]==key){
-                return valueVector[i];
-            }
+        KVNode* pre = find(key);
+        if(pre && pre->next) {
+            cout<< pre->next->val <<endl;
+            return pre->next->val;
         }
         return -1;
     }
     
     /** Removes the mapping of the specified value key if this map contains a mapping for the key */
     void remove(int key) {
-        int search = -1;
-        for(int i=0; i<keyVector.size(); i++){
-            if(keyVector[i]==key){
-                search = i;
-                break;
-            }
+        KVNode* pre = find(key);
+        if(pre->next){
+            KVNode* tmp = pre->next;
+            pre->next = pre->next->next;
+            tmp->next = NULL;
+            delete tmp;
         }
-        if(search==-1) return;
-        for(int i=search; i<keyVector.size()-1; i++){
-            swap(keyVector[i], keyVector[i+1]);
-            swap(valueVector[i], valueVector[i+1]);
-        }
-        keyVector.pop_back();
-        valueVector.pop_back();
-        
     }
+private:
+    vector<KVNode*> bucket = vector<KVNode*>(10000, new KVNode(-1, -1));
+    KVNode* find(int key){
+        KVNode* cur = bucket[index(key)], *pre = NULL;
+        while(cur && cur->key != key){
+            pre = cur;
+            cur = cur->next;
+        }
+        return pre;
+    }
+    int index(int key){ return key % 10000; }
 };
 
 /**

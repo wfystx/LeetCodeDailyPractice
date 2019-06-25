@@ -1,32 +1,26 @@
 class MovingAverage {
-private:
-    int tail;
-    vector<int> data;
-    int s;
 public:
     /** Initialize your data structure here. */
     MovingAverage(int size) {
-        s = size;
-        tail = -1;
+        sz = size;
+        sum = 0;
+        len = 0;
     }
     
     double next(int val) {
-        data.push_back(val);
-        tail++;
-        double rev = 0;
-        if(data.size()<=s){
-            for(int i=tail; i>=0; i--){
-                rev += data[i];
-            }
-            rev /= (tail+1);
-        }else{
-            for(int i=tail; i>=data.size()-s; i--){
-                rev += data[i];
-            }
-            rev /= s;
+        if(len < sz) len++;
+        if(q.size() >= sz) {
+            sum -= q.front();
+            q.pop(); 
         }
-        return rev;
+        q.push(val);
+        sum += val;
+        return sum / len;
     }
+private:
+    queue<int> q;
+    int sz, len;
+    double sum;
 };
 
 /**

@@ -7,7 +7,7 @@ ID  Title
 
 2 Add Two Numbers @@
 
-3   Longest Substring Without Repeating Characters @@
+3   Longest Substring Without Repeating Characters @@@
 
 4   Median of Two Sorted Arrays @
 
@@ -59,7 +59,7 @@ ID  Title
 
 33  Search in Rotated Sorted Array @@@
 
-34 Find First and Last Position of Element in Sorted Array  @
+34 Find First and Last Position of Element in Sorted Array  @@
 
 35  Search Insert Position @  
 
@@ -75,7 +75,7 @@ ID  Title
 
 41  First Missing Positive @@
 
-42  Trapping Rain Water @@
+42  Trapping Rain Water @@@
 
 43  Multiply Strings @@
 
@@ -89,7 +89,7 @@ ID  Title
 
 48  Rotate Image @@
 
-49  Group Anagrams @@@
+49  Group Anagrams @@@@
 
 50  Pow(x, n) @@
 
@@ -117,7 +117,7 @@ ID  Title
 
 !!65  Valid Number 
 
-66  Plus One @  
+66  Plus One @@
 
 67  Add Binary @@@
 
@@ -135,7 +135,7 @@ ID  Title
 
 75  Sort Colors @  
 
-76  Minimum Window Substring @@
+76  Minimum Window Substring @@@
 
 77  Combinations @  
 
@@ -211,6 +211,8 @@ ID  Title
 
 134 Gas Station @  
 
+136 Single Number @
+
 138 Copy List with Random Pointer @@  
 
 139 Word Break @@@@
@@ -243,7 +245,7 @@ ID  Title
 
 161 One Edit Distance @
 
-162 Find Peak Element @
+162 Find Peak Element @@
 
 163 Missing Ranges @
 
@@ -252,6 +254,8 @@ ID  Title
 167 Two Sum II - Input array is sorted @
 
 168 Excel Sheet Column Title @ 
+
+170 Two Sum III - Data structure design @
 
 171 Excel Sheet Column Number @ 
 
@@ -275,11 +279,11 @@ ID  Title
 
 201 Bitwise AND of Numbers Range @
 
-202 Happy Number @ 
+202 Happy Number @@
 
 204 Count Primes @@
 
-205 Isomorphic Strings @
+205 Isomorphic Strings @@
 
 206 Reverse Linked List @@
 
@@ -303,7 +307,7 @@ ID  Title
 
 216 Combination Sum III @
 
-217 Contains Duplicate @
+217 Contains Duplicate @@
 
 !218 The Skyline Problem 
 
@@ -323,7 +327,7 @@ ID  Title
 
 227 Basic Calculator II @@
 
-228 Summary Ranges @ 
+228 Summary Ranges @@
 
 230 Kth Smallest Element in a BST @ 
 
@@ -339,7 +343,7 @@ ID  Title
 
 !239 Sliding Window Maximum
 
-240 Search a 2D Matrix II @ 
+240 Search a 2D Matrix II @@
 
 241 Different Ways to Add Parentheses @
 
@@ -351,7 +355,9 @@ ID  Title
 
 245 Shortest Word Distance III @
 
-249 Group Shifted Strings @
+249 Group Shifted Strings @@
+
+250 Count Univalue Subtrees @
 
 251 Flatten 2D Vector @
 
@@ -377,7 +383,7 @@ ID  Title
 
 269 Alien Dictionary @@
 
-270 Closest Binary Search Tree Value @
+270 Closest Binary Search Tree Value @@
 
 271 Encode and Decode Strings @
 
@@ -393,7 +399,7 @@ ID  Title
 
 278 First Bad Version @ 
 
-279 Perfect Squares @ 
+279 Perfect Squares @@
 
 280 Wiggle Sort @
 
@@ -409,7 +415,7 @@ ID  Title
 
 287 Find the Duplicate Number @
 
-288 Unique Word Abbreviation @
+288 Unique Word Abbreviation @@
 
 289 Game of Life @@
 
@@ -443,7 +449,7 @@ ID  Title
 
 !308 Range Sum Query 2D - Mutable 
 
-309 Best Time to Buy and Sell Stock with Cooldown @
+309 Best Time to Buy and Sell Stock with Cooldown @@
 
 !311 Sparse Matrix Multiplication
 
@@ -451,7 +457,7 @@ ID  Title
 
 314 Binary Tree Vertical Order Traversal @
 
-!316 Remove Duplicate Letters
+316 Remove Duplicate Letters @
 
 !317 Shortest Distance from All Buildings
 
@@ -464,6 +470,8 @@ ID  Title
 324 Wiggle Sort II @
 
 325 Maximum Size Subarray Sum Equals k @
+
+326 Power of Three @
 
 !329 Longest Increasing Path in a Matrix
 
@@ -485,13 +493,15 @@ ID  Title
 
 344 Reverse String @
 
-!346 Moving Average from Data Stream 
+346 Moving Average from Data Stream @
 
-347 Top K Frequent Elements @@
+347 Top K Frequent Elements @@@
 
 348 Design Tic-Tac-Toe @@
 
-350 Intersection of Two Arrays II @  
+349 Intersection of Two Arrays @
+
+350 Intersection of Two Arrays II @@
 
 !351 Android Unlock Patterns  
 
@@ -503,7 +513,7 @@ ID  Title
 
 355 Design Twitter @  
 
-359 Logger Rate Limiter @    
+359 Logger Rate Limiter @@
 
 361 Bomb Enemy @  
 
@@ -511,7 +521,7 @@ ID  Title
 
 364 Nested List Weight Sum II @
 
-367 Valid Perfect Square @   
+367 Valid Perfect Square @@
 
 374 Guess Number Higher or Lower @  
 
@@ -525,7 +535,7 @@ ID  Title
 
 !379 Design Phone Directory
 
-380 Insert Delete GetRandom O(1) @@
+380 Insert Delete GetRandom O(1) @@@
 
 381 Insert Delete GetRandom O(1) - Duplicates allowed @  
 
@@ -533,25 +543,53 @@ ID  Title
 
 !385 Mini Parser   
 
-389 Find the Difference @  
+386 Lexicographical Numbers @
+
+387 First Unique Character in a String @@
+
+389 Find the Difference @@
+
+390 Elimination Game @
+
+392 Is Subsequence @
 
 394 Decode String @@@
 
+395 Longest Substring with At Least K Repeating Characters @
+
 398 Random Pick Index @  
+
+406 Queue Reconstruction by Height @
 
 412 Fizz Buzz @
 
+415 Add Strings @
+
+421 Maximum XOR of Two Numbers in an Array @
+
 426 Convert Binary Search Tree to Sorted Doubly Linked List @
+
+428 Serialize and Deserialize N-ary Tree @
+
+429 N-ary Tree Level Order Traversal @
+
+431 Encode N-ary Tree to Binary Tree @
+
+442 Find All Duplicates in an Array @
 
 443 String Compression @
 
 445 Add Two Numbers II @
 
+448 Find All Numbers Disappeared in an Array @
+
 449 Serialize and Deserialize BST @
 
-454 4Sum II @
+454 4Sum II @@
 
 459 Repeated Substring Pattern @
+
+463 Island Perimeter @
 
 509 Fibonacci Number @
 
@@ -559,21 +597,41 @@ ID  Title
 
 543 Diameter of Binary Tree @
 
+559 Maximum Depth of N-ary Tree @
+
 560 Subarray Sum Equals K @
+
+589 N-ary Tree Preorder Traversal @
+
+590 N-ary Tree Postorder Traversal @
+
+599 Minimum Index Sum of Two Lists @
 
 609 Find Duplicate File in System @
 
 621 Task Scheduler @@
 
-642 Design Search Autocomplete System @@
+642 Design Search Autocomplete System @@@
 
 647 Palindromic Substrings @
 
+648 Replace Words @
+
+652 Find Duplicate Subtrees @
+
+657 Robot Return to Origin @
+
+658 Find K Closest Elements @
+
 675 Cut Off Trees for Golf Event @
+
+677 Map Sum Pairs @
 
 692 Top K Frequent Words @
 
-706 Design HashMap @
+705 Design HashSet @
+
+706 Design HashMap @@
 
 716 Max Stack @
 
@@ -581,11 +639,13 @@ ID  Title
 
 735 Asteroid Collision @
 
+739 Daily Temperatures @
+
 755 Pour Water @
 
 763 Partition Labels @
 
-771 Jewels and Stones @
+771 Jewels and Stones @@
 
 776 Split BST @
 
@@ -594,6 +654,10 @@ ID  Title
 819 Most Common Word @@
 
 829 Consecutive Numbers Sum @
+
+832 Flipping an Image @
+
+841 Keys and Rooms @
 
 895 Maximum Frequency Stack @
 
@@ -616,3 +680,28 @@ ID  Title
 981 Time Based Key-Value Store @
 
 986 Interval List Intersections @
+
+1073 Adding Two Negabinary Numbers @
+
+1078 Occurrences After Bigram @
+
+1079 Letter Tile Possibilities @
+
+1081 Smallest Subsequence of Distinct Characters @
+
+1085 Sum of Digits in the Minimum Number @
+
+1086 High Five @
+
+1087 Brace Expansion @
+
+1089 Duplicate Zeros @
+
+1090 Largest Values From Labels @
+
+1091 Shortest Path in Binary Matrix @
+
+1094 Car Pooling @
+
+
+
