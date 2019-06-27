@@ -33,6 +33,8 @@ ID  Title
 
 15  3Sum @@@
 
+16 3Sum Closest @
+
 17  Letter Combinations of a Phone Number @@@
 
 18  4Sum @@
@@ -161,6 +163,8 @@ ID  Title
 
 92 Reverse Linked List II @
 
+93 Restore IP Addresses @
+
 96  Unique Binary Search Trees @  
 
 98  Validate Binary Search Tree @@
@@ -217,7 +221,7 @@ ID  Title
 
 139 Word Break @@@@
 
-!140 Word Break II
+140 Word Break II @
 
 142 Linked List Cycle II @  
 
@@ -453,7 +457,7 @@ ID  Title
 
 !311 Sparse Matrix Multiplication
 
-!312 Burst Balloons
+312 Burst Balloons @
 
 314 Binary Tree Vertical Order Traversal @
 
@@ -473,7 +477,7 @@ ID  Title
 
 326 Power of Three @
 
-!329 Longest Increasing Path in a Matrix
+329 Longest Increasing Path in a Matrix @
 
 332 Reconstruct Itinerary @
 
@@ -565,6 +569,8 @@ ID  Title
 
 415 Add Strings @
 
+417 Pacific Atlantic Water Flow @
+
 421 Maximum XOR of Two Numbers in an Array @
 
 426 Convert Binary Search Tree to Sorted Doubly Linked List @
@@ -574,6 +580,8 @@ ID  Title
 429 N-ary Tree Level Order Traversal @
 
 431 Encode N-ary Tree to Binary Tree @
+
+438 Find All Anagrams in a String @
 
 442 Find All Duplicates in an Array @
 
@@ -589,9 +597,13 @@ ID  Title
 
 459 Repeated Substring Pattern @
 
+460 LFU Cache @
+
 463 Island Perimeter @
 
 509 Fibonacci Number @
+
+528 Random Pick with Weight @
 
 535 Encode and Decode TinyURL @
 
@@ -611,6 +623,8 @@ ID  Title
 
 621 Task Scheduler @@
 
+635 Design Log Storage System @
+
 642 Design Search Autocomplete System @@@
 
 647 Palindromic Substrings @
@@ -629,9 +643,15 @@ ID  Title
 
 692 Top K Frequent Words @
 
+695 Max Area of Island @
+
+700 Search in a Binary Search Tree @
+
 705 Design HashSet @
 
 706 Design HashMap @@
+
+713 Subarray Product Less Than K @
 
 716 Max Stack @
 
@@ -647,6 +667,8 @@ ID  Title
 
 771 Jewels and Stones @@
 
+773 Sliding Puzzle @
+
 776 Split BST @
 
 811 Subdomain Visit Count @
@@ -661,7 +683,13 @@ ID  Title
 
 895 Maximum Frequency Stack @
 
-904 Fruit Into Baskets @
+904 Fruit Into Baskets @@
+
+905 Sort Array By Parity @
+
+906 Super Palindromes @
+
+907 Sum of Subarray Minimums @
 
 909 Snakes and Ladders @
 
@@ -669,7 +697,13 @@ ID  Title
 
 929 Unique Email Addresses @
 
+935 Knight Dialer @
+
 937 Reorder Log Files @@
+
+947 Most Stones Removed with Same Row or Column @
+
+953 Verifying an Alien Dictionary @
 
 957 Prison Cells After N Days @
 
@@ -680,6 +714,48 @@ ID  Title
 981 Time Based Key-Value Store @
 
 986 Interval List Intersections @
+
+1041 Robot Bounded In Circle @
+
+1042 Flower Planting With No Adjacent @
+
+1043 Partition Array for Maximum Sum @
+
+1046 Last Stone Weight @
+
+1048 Longest String Chain @
+
+1049 Last Stone Weight II @
+
+1051 Height Checker @
+
+1052 Grumpy Bookstore Owner @
+
+1053 Previous Permutation With One Swap @
+
+1054 Distant Barcodes @
+
+1055 Shortest Way to Form String @
+
+1056 Confusing Number @
+
+1057 Campus Bikes @
+
+1059 All Paths from Source Lead to Destination @
+
+1060 Missing Element in Sorted Array @
+
+1061 Lexicographically Smallest Equivalent String @
+
+1062 Longest Repeating Substring @
+
+1064 Fixed Point @
+
+1065 Index Pairs of a String @
+
+1071 Greatest Common Divisor of Strings @
+
+1072 Flip Columns For Maximum Number of Equal Rows @
 
 1073 Adding Two Negabinary Numbers @
 
