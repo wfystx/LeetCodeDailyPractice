@@ -5,21 +5,21 @@ ID  Title
 
 1   Two Sum @@
 
-2 Add Two Numbers @@
+2   Add Two Numbers @@
 
 3   Longest Substring Without Repeating Characters @@@
 
-4   Median of Two Sorted Arrays @
+4   Median of Two Sorted Arrays @@
 
 5   Longest Palindromic Substring @@
 
-6  ZigZag Conversion @@
+6   ZigZag Conversion @@
 
 7   Reverse Integer @@
 
 8   String to Integer (atoi)  @@
 
-9 Palindrome Number @
+9   Palindrome Number @@
 
 10  Regular Expression Matching @  
 
@@ -29,31 +29,39 @@ ID  Title
 
 13  Roman to Integer @@
 
-14 Longest Common Prefix @
+14 Longest Common Prefix @@
 
 15  3Sum @@@
 
-16 3Sum Closest @
+16 3Sum Closest @@
 
 17  Letter Combinations of a Phone Number @@@
 
 18  4Sum @@
 
+19  Remove Nth Node From End of List @@
+
 20  Valid Parentheses @@@
 
-21 Merge Two Sorted Lists @
+21 Merge Two Sorted Lists @@
 
 22  Generate Parentheses @@
 
 23  Merge k Sorted Lists @@@
 
+24  Swap Nodes in Pairs @@
+
+25  Reverse Nodes in k-Group @
+
 26  Remove Duplicates from Sorted Array @@
 
-27  Remove Element @   
+27  Remove Element @@
 
 28  Implement strStr() @@
 
-29  Divide Two Integers @   
+29  Divide Two Integers @@
+
+30  Substring with Concatenation of All Words @
 
 31  Next Permutation @@
 
@@ -63,17 +71,17 @@ ID  Title
 
 34 Find First and Last Position of Element in Sorted Array  @@
 
-35  Search Insert Position @  
+35  Search Insert Position @@
 
-36  Valid Sudoku @  
+36  Valid Sudoku @@
 
 37  Sudoku Solver @@
 
-38  Count and Say @  
+38  Count and Say @@
 
 39  Combination Sum @@
 
-40  Combination Sum II @  
+40  Combination Sum II @@
 
 41  First Missing Positive @@
 
@@ -87,7 +95,7 @@ ID  Title
 
 46  Permutations @@
 
-47  Permutations II @  
+47  Permutations II @@
 
 48  Rotate Image @@
 
@@ -103,19 +111,25 @@ ID  Title
 
 54  Spiral Matrix @@
 
-55  Jump Game @  
+55  Jump Game @@
 
 56  Merge Intervals @@@
 
 57  Insert Interval @@
 
-59  Spiral Matrix II @  
+58  Length of Last Word @
+
+59  Spiral Matrix II @@
 
 60  Permutation Sequence @    
 
-62  Unique Paths @  
+61  Rotate List @
 
-64  Minimum Path Sum @  
+62  Unique Paths @@
+
+63  Unique Paths II @
+
+64  Minimum Path Sum @@
 
 !!65  Valid Number 
 
@@ -129,27 +143,31 @@ ID  Title
 
 70  Climbing Stairs @@
 
-71  Simplify Path @  
+71  Simplify Path @@
 
 72  Edit Distance @@
 
-74  Search a 2D Matrix @  
+73  Set Matrix Zeroes @
 
-75  Sort Colors @  
+74  Search a 2D Matrix @@
+
+75  Sort Colors @@
 
 76  Minimum Window Substring @@@
 
-77  Combinations @  
+77  Combinations @@
 
 78  Subsets @@
 
 79  Word Search @@@
 
-80  Remove Duplicates from Sorted Array II @  
+80  Remove Duplicates from Sorted Array II @@
 
 81  Search in Rotated Sorted Array II @  
 
 82  Remove Duplicates from Sorted List II @  
+
+83  Remove Duplicates from Sorted List @
 
 !84  Largest Rectangle in Histogram  
 
@@ -284,6 +302,8 @@ ID  Title
 201 Bitwise AND of Numbers Range @
 
 202 Happy Number @@
+
+203 Remove Linked List Elements @
 
 204 Count Primes @@
 
@@ -433,7 +453,7 @@ ID  Title
 
 295 Find Median from Data Stream @@
 
-!296 Best Meeting Point
+296 Best Meeting Point @
 
 297 Serialize and Deserialize Binary Tree @@
 
@@ -467,7 +487,7 @@ ID  Title
 
 318 Maximum Product of Word Lengths @
 
-322 Coin Change @@
+322 Coin Change @@@
 
 !323 Number of Connected Components in an Undirected Graph
 
@@ -603,6 +623,8 @@ ID  Title
 
 509 Fibonacci Number @
 
+518 Coin Change 2 @
+
 528 Random Pick with Weight @
 
 535 Encode and Decode TinyURL @
@@ -651,6 +673,8 @@ ID  Title
 
 706 Design HashMap @@
 
+708 Insert into a Cyclic Sorted List @
+
 713 Subarray Product Less Than K @
 
 716 Max Stack @
@@ -664,6 +688,8 @@ ID  Title
 755 Pour Water @
 
 763 Partition Labels @
+
+767 Reorganize String @
 
 771 Jewels and Stones @@
 
@@ -707,9 +733,13 @@ ID  Title
 
 957 Prison Cells After N Days @
 
+966 Vowel Spellchecker @
+
 973 K Closest Points to Origin @@
 
 974 Subarray Sums Divisible by K @
+
+977 Squares of a Sorted Array @
 
 981 Time Based Key-Value Store @
 
