@@ -163,57 +163,81 @@ ID  Title
 
 80  Remove Duplicates from Sorted Array II @@
 
-81  Search in Rotated Sorted Array II @  
+81  Search in Rotated Sorted Array II @@
 
-82  Remove Duplicates from Sorted List II @  
+82  Remove Duplicates from Sorted List II @@
 
 83  Remove Duplicates from Sorted List @
 
-!84  Largest Rectangle in Histogram  
+84  Largest Rectangle in Histogram @
 
 !85  Maximal Rectangle  
 
+86  Partition List @
+
 88  Merge Sorted Array @@@
 
-90  Subsets II @  
+90  Subsets II @@
 
 91  Decode Ways @@
 
-92 Reverse Linked List II @
+92  Reverse Linked List II @@
 
-93 Restore IP Addresses @
+93  Restore IP Addresses @@
 
-96  Unique Binary Search Trees @  
+94  Binary Tree Inorder Traversal @@
+
+95  Unique Binary Search Trees II @
+
+96  Unique Binary Search Trees @@
 
 98  Validate Binary Search Tree @@
 
-101 Symmetric Tree @  
+100 Same Tree @
 
-102 Binary Tree Level Order Traversal @
+101 Symmetric Tree @@
+
+102 Binary Tree Level Order Traversal @@
 
 103 Binary Tree Zigzag Level Order Traversal @@
 
-104 Maximum Depth of Binary Tree @  
+104 Maximum Depth of Binary Tree @@
 
-108 Convert Sorted Array to Binary Search Tree @  
+105 Construct Binary Tree from Preorder and Inorder Traversal @@
 
-110 Balanced Binary Tree @  
+106 Construct Binary Tree from Inorder and Postorder Traversal @@
 
-111 Minimum Depth of Binary Tree @  
+107 Binary Tree Level Order Traversal II @
 
-112 Path Sum @  
+108 Convert Sorted Array to Binary Search Tree @@
 
-113 Path Sum II @  
+109 Convert Sorted List to Binary Search Tree @
 
-115 Distinct Subsequences @   
+110 Balanced Binary Tree @@
 
-116 Populating Next Right Pointers in Each Node @  
+111 Minimum Depth of Binary Tree @@
 
-117 Populating Next Right Pointers in Each Node II @  
+112 Path Sum @@
+
+113 Path Sum II @@
+
+114 Flatten Binary Tree to Linked List @@
+
+115 Distinct Subsequences @@
+
+116 Populating Next Right Pointers in Each Node @@
+
+117 Populating Next Right Pointers in Each Node II @@
+
+118 Pascal's Triangle @
+
+119 Pascal's Triangle II @
+
+120 Triangle @
 
 121 Best Time to Buy and Sell Stock @@@
 
-122 Best Time to Buy and Sell Stock II @  
+122 Best Time to Buy and Sell Stock II @@
 
 !123 Best Time to Buy and Sell Stock III  
 
@@ -227,13 +251,17 @@ ID  Title
 
 128 Longest Consecutive Sequence @@
 
-130 Surrounded Regions @  
+129 Sum Root to Leaf Numbers @
+
+130 Surrounded Regions @@
+
+131 Palindrome Partitioning @
 
 133 Clone Graph @@
 
-134 Gas Station @  
+134 Gas Station @@
 
-136 Single Number @
+136 Single Number @@
 
 138 Copy List with Random Pointer @@  
 
@@ -241,11 +269,19 @@ ID  Title
 
 140 Word Break II @
 
-142 Linked List Cycle II @  
+141 Linked List Cycle @@
+
+142 Linked List Cycle II @@
 
 143 Reorder List @
 
+144 Binary Tree Preorder Traversal @@
+
+145 Binary Tree Postorder Traversal @@
+
 146 LRU Cache @@
+
+147 Insertion Sort List @@
 
 !149 Max Points on a Line 
 
@@ -337,7 +373,7 @@ ID  Title
 
 219 Contains Duplicate II @ 
 
-220 Contains Duplicate III @ 
+220 Contains Duplicate III @@
 
 221 Maximal Square @
 
