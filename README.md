@@ -673,7 +673,7 @@ ID  Title
 
 589 N-ary Tree Preorder Traversal @
 
-590 N-ary Tree Postorder Traversal @
+590 N-ary Tree Postorder Traversal @@
 
 599 Minimum Index Sum of Two Lists @
 
