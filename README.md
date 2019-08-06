@@ -5,13 +5,13 @@ ID  Title
 
 1   Two Sum @@
 
-2   Add Two Numbers @@
+2   Add Two Numbers @@@
 
 3   Longest Substring Without Repeating Characters @@@
 
 4   Median of Two Sorted Arrays @@
 
-5   Longest Palindromic Substring @@
+5   Longest Palindromic Substring @@@
 
 6   ZigZag Conversion @@
 
@@ -27,7 +27,7 @@ ID  Title
 
 12  Integer to Roman @@
 
-13  Roman to Integer @@
+13  Roman to Integer @@@
 
 14 Longest Common Prefix @@
 
@@ -43,7 +43,7 @@ ID  Title
 
 20  Valid Parentheses @@@
 
-21 Merge Two Sorted Lists @@
+21 Merge Two Sorted Lists @@@
 
 22  Generate Parentheses @@
 
@@ -207,11 +207,11 @@ ID  Title
 
 106 Construct Binary Tree from Inorder and Postorder Traversal @@
 
-107 Binary Tree Level Order Traversal II @
+107 Binary Tree Level Order Traversal II @@
 
 108 Convert Sorted Array to Binary Search Tree @@
 
-109 Convert Sorted List to Binary Search Tree @
+109 Convert Sorted List to Binary Search Tree @@
 
 110 Balanced Binary Tree @@
 
@@ -235,7 +235,7 @@ ID  Title
 
 120 Triangle @
 
-121 Best Time to Buy and Sell Stock @@@
+121 Best Time to Buy and Sell Stock @@@@
 
 122 Best Time to Buy and Sell Stock II @@
 
@@ -251,11 +251,11 @@ ID  Title
 
 128 Longest Consecutive Sequence @@
 
-129 Sum Root to Leaf Numbers @
+129 Sum Root to Leaf Numbers @@
 
 130 Surrounded Regions @@
 
-131 Palindrome Partitioning @
+131 Palindrome Partitioning @@
 
 133 Clone Graph @@
 
@@ -293,45 +293,77 @@ ID  Title
 
 153 Find Minimum in Rotated Sorted Array @@
 
-154 Find Minimum in Rotated Sorted Array II @
+154 Find Minimum in Rotated Sorted Array II @@
 
 155 Min Stack @@
 
-157 Read N Characters Given Read4 @
+157 Read N Characters Given Read4 @@
 
 !158 Read N Characters Given Read4 II - Call multiple times
 
-161 One Edit Distance @
+160 Intersection of Two Linked Lists @
+
+161 One Edit Distance @@
 
 162 Find Peak Element @@
 
-163 Missing Ranges @
+163 Missing Ranges @@
 
-165 Compare Version Numbers @
+165 Compare Version Numbers @@
 
-167 Two Sum II - Input array is sorted @
+166 Fraction to Recurring Decimal @
 
-168 Excel Sheet Column Title @ 
+167 Two Sum II - Input array is sorted @@
 
-170 Two Sum III - Data structure design @
+168 Excel Sheet Column Title @@
 
-171 Excel Sheet Column Number @ 
+169 Majority Element @
+
+170 Two Sum III - Data structure design @@
+
+171 Excel Sheet Column Number @@
+
+172 Factorial Trailing Zeroes @
 
 173 Binary Search Tree Iterator @@
 
-186 Reverse Words in a String II @
-
 !174 Dungeon Game 
+
+175 Combine Two Tables @
+
+176 Second Highest Salary @
+
+177 Nth Highest Salary @
+
+179 Largest Number @
+
+181 Employees Earning More Than Their Managers @
+
+182 Duplicate Emails @
+
+183 Customers Who Never Order @
+
+184 Department Highest Salary @ 
+
+186 Reverse Words in a String II @@
+
+187 Repeated DNA Sequences @
 
 !188 Best Time to Buy and Sell Stock IV
 
-189 Rotate Array @
+189 Rotate Array @@
 
-191 Number of 1 Bits @
+190 Reverse Bits @
 
-198 House Robber @  
+191 Number of 1 Bits @@
 
-199 Binary Tree Right Side View @
+196 Delete Duplicate Emails @
+
+197 Rising Temperature @
+
+198 House Robber @@
+
+199 Binary Tree Right Side View @@
 
 200 Number of Islands @@ 
 
@@ -339,7 +371,7 @@ ID  Title
 
 202 Happy Number @@
 
-203 Remove Linked List Elements @
+203 Remove Linked List Elements @@
 
 204 Count Primes @@
 
@@ -399,7 +431,7 @@ ID  Title
 
 236 Lowest Common Ancestor of a Binary Tree @@
 
-238 Product of Array Except Self @@@
+238 Product of Array Except Self @@@@
 
 !239 Sliding Window Maximum
 
@@ -529,7 +561,7 @@ ID  Title
 
 324 Wiggle Sort II @
 
-325 Maximum Size Subarray Sum Equals k @
+325 Maximum Size Subarray Sum Equals k @@
 
 326 Power of Three @
 
@@ -553,7 +585,7 @@ ID  Title
 
 344 Reverse String @
 
-346 Moving Average from Data Stream @
+346 Moving Average from Data Stream @@@
 
 347 Top K Frequent Elements @@@
 
@@ -663,6 +695,8 @@ ID  Title
 
 528 Random Pick with Weight @
 
+529 Minesweeper @
+
 535 Encode and Decode TinyURL @
 
 543 Diameter of Binary Tree @
@@ -691,11 +725,13 @@ ID  Title
 
 652 Find Duplicate Subtrees @
 
+653 Two Sum IV - Input is a BST @
+
 657 Robot Return to Origin @
 
 658 Find K Closest Elements @
 
-675 Cut Off Trees for Golf Event @
+675 Cut Off Trees for Golf Event @@
 
 677 Map Sum Pairs @
 
@@ -715,6 +751,8 @@ ID  Title
 
 716 Max Stack @
 
+721 Accounts Merge @
+
 733 Flood Fill @
 
 735 Asteroid Collision @
@@ -723,7 +761,7 @@ ID  Title
 
 755 Pour Water @
 
-763 Partition Labels @
+763 Partition Labels @@
 
 767 Reorganize String @
 
@@ -733,15 +771,25 @@ ID  Title
 
 776 Split BST @
 
+788 Rotated Digits @
+
+791 Custom Sort String @
+
 811 Subdomain Visit Count @
 
-819 Most Common Word @@
+819 Most Common Word @@@
 
 829 Consecutive Numbers Sum @
 
 832 Flipping an Image @
 
+836 Rectangle Overlap @
+
 841 Keys and Rooms @
+
+849 Maximize Distance to Closest Person @
+
+868 Binary Gap @
 
 895 Maximum Frequency Stack @
 
@@ -771,15 +819,17 @@ ID  Title
 
 966 Vowel Spellchecker @
 
-973 K Closest Points to Origin @@
+973 K Closest Points to Origin @@@
 
 974 Subarray Sums Divisible by K @
 
-977 Squares of a Sorted Array @
+977 Squares of a Sorted Array @@
 
 981 Time Based Key-Value Store @
 
 986 Interval List Intersections @
+
+987 Vertical Order Traversal of a Binary Tree @
 
 1041 Robot Bounded In Circle @
 
@@ -837,7 +887,7 @@ ID  Title
 
 1087 Brace Expansion @
 
-1089 Duplicate Zeros @
+1089 Duplicate Zeros @@
 
 1090 Largest Values From Labels @
 
@@ -845,5 +895,5 @@ ID  Title
 
 1094 Car Pooling @
 
-
+1128 Number of Equivalent Domino Pairs @
 
